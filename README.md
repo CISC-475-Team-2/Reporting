@@ -7,8 +7,10 @@
 >> + And a back end componenet, this will analyze the data and output to JSON for the front end.
 
 
-
+###Design
+>Our current Design can be found [here](https://github.com/CISC-475-Team-2/Mock-Design)
 ![preview](http://i.imgur.com/x7JBwbP.png)
+
 
 ##Meetings Table
 
