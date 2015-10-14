@@ -2,7 +2,7 @@
 
 ###Overview
 >We have been tasked with creating a system that will analyze directory systems from http://www.emoneyadvisor.com and output to a visual map that displays the current locations of all employees based on their devices.
-
+!(http://i.imgur.com/x7JBwbP.png)
 |Date | Description|
 |-----| -----------|
 |9/11/2015| First meeting, identified scope and potential avenues to continue.|
