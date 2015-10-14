@@ -1,7 +1,11 @@
 # CISC-475-Team-2
 
 ###Overview
->We have been tasked with creating a system that will analyze directory systems from http://www.emoneyadvisor.com and output to a visual map that displays the current locations of all employees based on their devices.
+>We have been tasked with creating a system that will analyze directory systems from >[eMoneyAdvisor](http://www.emoneyadvisor.com) and output to a visual map that displays the current locations of all >employees based on their devices.  This software will pull and analyze new data on a schedule.
+>> We are using two systems, one functioning as a front end component -- this will display the map.
+>> And a back end componenet, this will analyze the data and output to JSON for the front end.
+>
+
 
 ![preview](http://i.imgur.com/x7JBwbP.png)
 
