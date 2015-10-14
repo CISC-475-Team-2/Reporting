@@ -1,7 +1,7 @@
 # CISC-475-Team-2
 
 ###Overview
->We have been tasked with creating a system that will analyze directory systems from [http://www.emoneyadvisor.com] and output to a visual map that displays the current locations of all employees based on their devices.
+>We have been tasked with creating a system that will analyze directory systems from http://www.emoneyadvisor.com and output to a visual map that displays the current locations of all employees based on their devices.
 
 |Date | Description|
 |-----| -----------|
