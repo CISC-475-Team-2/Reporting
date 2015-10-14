@@ -12,7 +12,7 @@
 ![preview](http://i.imgur.com/x7JBwbP.png)
 
 
-##Meetings Table
+###Meetings Table
 
 |Date | Description|
 |-----| -----------|
