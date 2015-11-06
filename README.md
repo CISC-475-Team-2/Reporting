@@ -23,3 +23,4 @@
 |10/9/2015| Discussed relational models and current issued on the project.  Set goals for next week.|
 |10/23/2015| Discussed logistics of database and also the setup of Jenkins with nUnit/qUnit/MSBuild and possibly other output.|
 |10/30/2015| Setup of server and discussion of future plans with front end - back end correspondence|
+|11/6/2015| Sprint 6 planning and arrangement|
