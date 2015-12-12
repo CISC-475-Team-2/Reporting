@@ -8,8 +8,8 @@
 
 
 ###Design
->Our current Design can be found [here](https://github.com/CISC-475-Team-2/Mock-Design)
-![preview](http://i.imgur.com/x7JBwbP.png)
+>Our current Design can be found [here](https://github.com/CISC-475-Team-2/Front-End)
+![preview](https://raw.githubusercontent.com/CISC-475-Team-2/Front-End/master/Front-End-MVC/Content/Images/designscreen.PNG)
 
 
 ###Meetings Table
